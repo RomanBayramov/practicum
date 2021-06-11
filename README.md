@@ -10,3 +10,6 @@
 6. [Рынок заведений общественного питания Москвы](https://nbviewer.jupyter.org/github/RomanBayramov/practicum/blob/main/restaurant_project/restaurant_project_BR.ipynb)
 7. [Исследование тарифов компании "Мегалайн"](https://nbviewer.jupyter.org/github/RomanBayramov/practicum/blob/main/telecom_project/telecom_project_BR.ipynb)
 
+
+Пример дашборда:
+[Анализ пользовательского взаимодействия с карточками Яндекс.Дзен](https://public.tableau.com/app/profile/roman.bayramov/viz/Yandex_ZenProjectv_2/Dashboard1)
